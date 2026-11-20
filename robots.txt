@@ -1,5 +1,8 @@
 User-agent: *
 Disallow: /
-Allow: /LogovoVR/
+Allow: /LogovoVR/index.html
+Allow: /LogovoVR/news.html
+Allow: /LogovoVR/rules.html
+Allow: /LogovoVR/sitemap.xml
 
 Sitemap: https://timon4ikru.github.io/LogovoVR/sitemap.xml
